@@ -1,4 +1,4 @@
-Learn how to setup a CI/CD Pipeline with FastAPI, AWS, and Semaphore in this tutorial :)
+This repo has the complete version of the code for this tutorial.
 
 
 # Running this project
